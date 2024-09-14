@@ -1,0 +1,31 @@
+body{
+    background-image: url("../img/space2.jpg");
+    background-attachment:fixed;
+    background-size: 100%;
+}
+h1{
+    background-image: url("../img/backgrou.jpg");
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: aliceblue;
+}
+table{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+td{
+    background-image: url("../img/back.jpg");
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: aliceblue;
+}
+h3{
+    background-image: url("../img/back.jpg");
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: aliceblue;
+}
