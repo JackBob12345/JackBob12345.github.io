@@ -23,6 +23,7 @@ td{
     color: aliceblue;
 }
 h3{
+    cursor: pointer;
     background-image: url("../img/back.jpg");
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
